@@ -5,7 +5,7 @@ This is my fourth Snap! project for CS Principles. This one makes randomly drawn
 This was a teacher guided project like my first one, so I didn't have much of a hand in coming up with my own solutions. I did make the colors pastel though, and I made mine more jittery than my teacher's was by increasing the randomized rotation amounts.
 
 #### How to Run it
-If you see this and you'd like to view my project (it's a very basic project) follow these steps:
+If you see this and you'd like to view my project, follow these steps:
 1. Download the "Art Creator (CS Principles).xml" file in this repository.
 2. Go to https://snap.berkeley.edu/
 3. Press the Run Snap! Now button.
